@@ -1,6 +1,5 @@
 Oggy - Movie Streaming Site
 
- Login /Signup
  ![image](https://user-images.githubusercontent.com/69428947/233236473-2fc17207-fa61-4791-8556-ebe836928c48.png)
 ![image](https://user-images.githubusercontent.com/69428947/233236595-4efb1b82-f019-4f26-8e7f-20c55d8975f6.png)
 
