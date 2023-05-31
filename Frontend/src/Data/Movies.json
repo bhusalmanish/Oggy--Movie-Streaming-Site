@@ -1,0 +1,153 @@
+
+
+[
+  
+
+    { 
+        "movie_id" : 1,
+      "name" : " John Wick 4",
+      "Rating" : 4,
+       "Realease_date" : "23-01-2022",
+      "Movie_image" : "https://i.pinimg.com/736x/53/70/64/537064a914c94214a5e4f17fe29dca51.jpg",
+      "Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+      "video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+       "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+       "Director": " Hari Teza",
+       "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+    },
+     
+    { 
+        "movie_id" : 2,
+      "name" : "Inside Man",
+      "Rating" :3.4,
+       "Realease_date" : "12-02-2006",
+      "Movie_image" : "https://img.yts.mx/assets/images/movies/Inside_Man_2006/medium-cover.jpg",
+      "Movie_description" : "Composed and meticulous, the soft-spoken and ingenious bank robber, Dalton Russell, has orchestrated the perfect heist--shortly, the Manhattan bank at the corner of Wall Street and Broadway along with dozens of hostages will be his to command. Try as he might, the rough hostage negotiator, Keith Frazier, is always one step behind the criminal mastermind--and what is more disheartening--the institution's silver-haired founder, Arthur Case, recruits the intelligent problem-fixer, Madeline White, to retrieve something of paramount importance. ",
+      "video_link" :"https://youtu.be/tEkI5ARK9-o",
+       "Movie_tailers": "https://youtu.be/tEkI5ARK9-o",
+       "Director": "Spike Lee",
+       "Actor" : ["Denzel Washington","Willem Dafoe", "Samantha Ivers "]
+    },
+    { 
+      "movie_id" : 3,
+    "name" : "Forzen",
+    "Rating" :4.5,
+     "Realease_date" : "09-11-2013",
+    "Movie_image" : "https://img.yts.mx/assets/images/movies/Frozen_2013/medium-cover.jpg",
+    "Movie_description" : "Fearless optimist Anna teams up with rugged mountain man Kristoff and his loyal reindeer Sven and sets off on an epic journey to find her sister Elsa, whose icy powers have trapped the kingdom of Arendelle in eternal winter. Encountering Everest-like conditions, mystical trolls and a hilarious snowman named Olaf, Anna and Kristoff battle the elements in a race to save the kingdom. From the outside Elsa looks poised, regal and reserved, but in reality she lives in fear as she wrestles with a mighty secret: she was born with the power to create ice and snow. It's a beautiful ability, but also extremely dangerous. ",
+    "video_link" :"https://youtu.be/lBBLgDGC870",
+     "Movie_tailers": "https://youtu.be/L0MK7qz13bU",
+     "Director": "Chris Buck",
+     "Actor" : ["Kristen Bell","Josh Gad", "Ciarán Hinds"]
+  }, 
+   { 
+        "movie_id" : 4,
+      "name" : "RRR",
+      "Rating" :3.1,
+       "Realease_date" : "10-02-2018",
+      "Movie_image" : "https://img.yts.mx/assets/images/movies/rrr_2022/medium-cover.jpg",
+      "Movie_description" : "During the British era, Malli, a small tribal girl, is taken away by British governor Scott Buxton and his wife Catherine against the wishes of her mother. Rama Raju is an Indian cop who works for the British army; for him duty comes first, and he is very ruthless to revolutionary Indians but is never given his due by British government. The British government find that a tribal Komaram Bheem, who considers Malli his sister, has started his search for her and could be an obstacle for the British army. The governor and his wife announce a special post for any officer who can bring Bheem to them. Rama Raju decides to take the matters into his own hands and promises the government to bring him in dead or alive. Bheem by now has reached he city in search of Malli and pretends to be a mechanic, Akhtar. During a train accident on a lake he and Rama Raju risk their lives and save a kid and become best of friends.",
+      "video_link" :"https://youtu.be/Q-vW3UKZpkQ",
+       "Movie_tailers": "https://youtu.be/sjvMJumvKbQ",
+       "Director": "S.S. Rajamouli",
+       "Actor" : ["Ram Charan", "Alison Doody", "Ray Stevenson"]
+    },
+    { 
+      "movie_id" : 5,
+    "name" : "Monday",
+    "Rating" :5,
+     "Realease_date" : "13-10-2020",
+    "Movie_image" : "https://img.yts.mx/assets/images/movies/monday_2020/medium-cover.jpg",
+    "Movie_description" : "Two Americans (Sebastian Stan and Denise Gough as Mickey and Chloe) in their mid-thirties living in Athens, who meet in the heat of summer one whirlwind weekend. When Chloe's time in Greece is drawing to a close, she decides to give up her high-flying job back home and explore whether one weekend's passion can stand the reality of the inevitable Monday.—Canon y mus",
+    "video_link" :"https://youtu.be/hOiWSWLt-NA",
+     "Movie_tailers": "https://youtu.be/hOiWSWLt-NA",
+     "Director": "Argyris Papadimitropoulos",
+     "Actor" : ["Sebastian Stan","Haroy White" ,"pali Joe", "Satro Berds", "Blue Bread"]
+  },
+  
+  { 
+    "movie_id" : 6,
+  "name" : "Black Swan",
+  "Rating" : 4,
+   "Realease_date" : "23-01-2022",
+  "Movie_image" : "https://img.yts.mx/assets/images/movies/Black_Swan_2010/medium-cover.jpg",
+  "Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+  "video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+   "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+   "Director": " Hari Teza",
+   "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+},
+
+{ 
+  "movie_id" : 7,
+"name" : "Requiem For a Dream Directors",
+"Rating" : 4,
+ "Realease_date" : "23-01-2022",
+"Movie_image" : "https://img.yts.mx/assets/images/movies/Requiem_for_a_Dream_DIRECTORS_CUT_2000/medium-cover.jpg",
+"Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+"video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+ "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+ "Director": " Hari Teza",
+ "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+},
+
+{ 
+  "movie_id" : 8,
+"name" : " ",
+"Rating" : 4,
+ "Realease_date" : "23-01-2022",
+"Movie_image" : "https://i.pinimg.com/736x/53/70/64/537064a914c94214a5e4f17fe29dca51.jpg",
+"Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+"video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+ "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+ "Director": " Hari Teza",
+ "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+},
+
+{ 
+  "movie_id" : 1,
+"name" : " John Wick 4",
+"Rating" : 4,
+ "Realease_date" : "23-01-2022",
+"Movie_image" : "https://i.pinimg.com/736x/53/70/64/537064a914c94214a5e4f17fe29dca51.jpg",
+"Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+"video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+ "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+ "Director": " Hari Teza",
+ "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+},
+
+{ 
+  "movie_id" : 1,
+"name" : " John Wick 4",
+"Rating" : 4,
+ "Realease_date" : "23-01-2022",
+"Movie_image" : "https://i.pinimg.com/736x/53/70/64/537064a914c94214a5e4f17fe29dca51.jpg",
+"Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+"video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+ "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+ "Director": " Hari Teza",
+ "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+},
+
+{ 
+  "movie_id" : 1,
+"name" : " John Wick 4",
+"Rating" : 4,
+ "Realease_date" : "23-01-2022",
+"Movie_image" : "https://i.pinimg.com/736x/53/70/64/537064a914c94214a5e4f17fe29dca51.jpg",
+"Movie_description" : "John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+"video_link" :"https://www.youtube.com/embed/yjRHZEUamCc",
+ "Movie_tailers": "https://youtu.be/Ko7qsNC-OTY",
+ "Director": " Hari Teza",
+ "Actor" : [" Jonny King"," PeterX"," Cater White" ," Peprica"]
+}
+
+
+
+  
+
+  
+
+
+  ]
